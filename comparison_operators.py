@@ -8,7 +8,7 @@
 # "Are you older than 15? Answer True or Flase."                         #
 # Convert the user response to Bool and then check its type using the    #
 # type function.                                                         #
-# See what happpens if the user does not repond with True or False,     #
+# See what happpens if the user does not repond with True or False,      #
 # and replies with Yes or No instead. Will this program still work?      #
 ##########################################################################
 
